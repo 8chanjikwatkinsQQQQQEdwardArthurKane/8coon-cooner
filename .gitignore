@@ -1,0 +1,70 @@
+# !SETTINGS.json
+
+# !8kun_schzio_scrapped_data.json
+# !SETTINGS_template.json
+# !bot research meme.png
+
+
+# .gitignore
+.ipynb_checkpoints/
+16chan.py
+2022-07-25_14-31(1).png
+8coon_8kun_bot/
+8kun-captcha-fastest/
+8kun_finetuned_set_trained/
+ABINet/
+CRNN-Keras/
+CRNN/
+GTR/
+IterNet/
+LICENSE
+MORAN_v2/
+SETTINGS.json
+StableDiffusionUI_Voldemort_paperspace.ipynb
+TrOCR.ipynb
+__pycache__/
+ai_captcha/
+ai_thing.py
+api_captcha_dataset_make.py
+api_test_hf.py
+axypb.py
+boobs.gif
+captcha_database/
+captcha_database_new_8kun/
+captcha_database_new_8kun2/
+copium.jpg
+encode_images.bash
+endchan.py
+epic-awesome-gamer/
+fred cash.jpeg
+frenschan.py
+gegl.xml
+gt_test.txt
+hcaptcha-challenger/
+hf_create_huggingface_dockers.py
+hf_spaces_scrapper.py
+hoe.png
+hoe2.png
+img/
+index.png
+internet terror.png
+kekpenis.png
+lainchan copy.py
+lainchan.py
+main.py
+money_stats_error.json
+my_h5_model.h5
+parseq/
+pinnedbotpost.jpg
+processed_captchas/
+securimage_solver/
+sneed.ipynb
+tbell_image_baseORIGINAL
+vocab.txt
+
+url=ssh://git@github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8kun_8coon.git
+
+# git remote add origin https://8chanjikwatkinsQQQQQEdwardArthurKane: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@github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8coon-cooner.git
+# git add .gitignore 8kun_coon.py boomer.png scrappingchud.jpg README.md _8kun_scrapper.py requirements.txt useragents.json user-agents_chrome_true_100_5000.json tbell_image_base.py "SETTINGS_template.json" "bot research meme.png" "8kun_blacklist.json" "8kun_threads_replies__first_backup.json" "8kun_schzio_scrapped_data.json"
+# git commit -a -m "killpedos" && git push -u origin main
+

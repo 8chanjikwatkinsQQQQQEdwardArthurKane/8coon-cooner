@@ -1,0 +1,5 @@
+requests_toolbelt
+requests
+pillow
+2captcha-python
+anticaptchaofficial

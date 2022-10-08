@@ -1,0 +1,10 @@
+{
+    "lum_user": "userNAME",
+    "lum_zone": "residential",
+    "lum_pass": "sdfsdfwerwerw",
+
+
+    "2captcha_api_key": "dfsgdfgergtergfetedgtre",
+    "anticaptcha_key": "sdjkfwkjerhwejkrhwerer"//curl -i -H "Accept: application/json"      -H "Content-Type: application/json"      -X POST -d '{ "clientKey":"YOUR_API_KEY" }' https://api.anti-captcha.com/getBalance
+
+}
