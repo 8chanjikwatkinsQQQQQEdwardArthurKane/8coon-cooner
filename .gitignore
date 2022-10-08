@@ -65,6 +65,10 @@ vocab.txt
 url=ssh://git@github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8kun_8coon.git
 
 # git remote add origin https://8chanjikwatkinsQQQQQEdwardArthurKane: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@github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8coon-cooner.git
+# git remote -v
+# git remote remove origin
+# git remote add origin git@github.com:8chanjikwatkinsQQQQQEdwardArthurKane/8coon-cooner.git
+
 # git add .gitignore 8kun_coon.py boomer.png scrappingchud.jpg README.md _8kun_scrapper.py requirements.txt useragents.json user-agents_chrome_true_100_5000.json tbell_image_base.py "SETTINGS_template.json" "bot research meme.png" "8kun_blacklist.json" "8kun_threads_replies__first_backup.json" "8kun_schzio_scrapped_data.json"
 # git commit -a -m "killpedos" && git push -u origin main
 

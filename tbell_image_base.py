@@ -12,9 +12,9 @@ def qrAdder(img_bg):
 
 	qr = qrcode.QRCode(box_size=4,border=1)
 	qr.add_data(
-    
+
     random.choice([
-      'https://github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8kun_8coon'+str(random.randint(1, 1111)),
+      'https://github.com/8chanjikwatkinsQQQQQEdwardArthurKane/8coon-cooner'+str(random.randint(1, 1111)),
       'https://www.offenderradar.com/offender-details/edward-arthur-kane-of-idaho-523009'+str(random.randint(1, 1111)),
       ])
     )
